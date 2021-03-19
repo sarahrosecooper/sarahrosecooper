@@ -1,5 +1,5 @@
 
-[✨ portfolio ✨](https://sarahrosecooper.dev/)
+
 #### 🌹 ABOUT ME 😌
 
 ---
@@ -7,6 +7,8 @@
 pronouns: (*she/her*)
 
 > ♡ I'm actively looking for new opportunities 
+
+[✨ portfolio ✨](https://sarahrosecooper.dev/)
 
 > I am a passionately empathetic Full-Stack Developer with a vigor for front-end. I am currently studying Full Stack at Lambda School - having just finished the front end and focusing on new back end technologies. However, my dream stack is everything iOS and advancing my UI/UX knowledge. 
 > 
