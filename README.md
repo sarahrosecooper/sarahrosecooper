@@ -38,7 +38,7 @@ pronouns: (*she/her*)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahrosecooper&layout=compact)](https://github.com/sarahrosecooper/github-readme-stats)
 ---
-###### 📬 let's get in touch: • [linkedin](https://www.linkedin.com/in/sarah-cooper-797370126/) • [gmail](mailto:sarahrosecooperx@gmail.com) • [twitter](https://twitter.com/srciscoding)
+###### 📬 let's get in touch: • [linkedin](https://www.linkedin.com/in/sarahrcooper/) • [gmail](mailto:sarahrosecooperx@gmail.com) • [twitter](https://twitter.com/srciscoding)
 ---
 ###### ⚡ deployed projects: • [african marketplace](https://front-end-african-market-place.vercel.app/) • [essentialism app](https://essentialism-simplify.netlify.app/) • [redux react app](https://redux-quote-app-cqx1shs85-sarahrosecooper.vercel.app/) • [reducer to do list](https://react-redux-todo-nine.vercel.app/) (more info regarding each on my portfolio ☝🏾)
 ---
