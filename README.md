@@ -24,15 +24,15 @@ pronouns: (*she/her*)
 
 ##### ✔️ currently working on
 
-> Graduating from the[Google UX Certificate](https://grow.google/certificates/ux-design/#?modal_active=none) 
+> graduating from the [Google UX Certificate](https://grow.google/certificates/ux-design/#?modal_active=none) 
 
 ##### 📚 languages/libraries/frameworks/tools
 ---
-> • html5 • css3 • javascript/es6 • react • redux • styled components • axios • git  • github  • trello  • slack  • macOS  • vscode 
+> • figma • html5 • css3 • javascript/es6 • react • redux • styled components • axios • git  • github  • trello  • slack  • macOS  • vscode 
 
 ##### 🤓 goals
 ---
-> material ui • react native • swift • flutter • typescript
+> • adobe xd • material ui • react native • swift • flutter • typescript
 
 
 ###### 🌹 STATS (weekly waka) 😌
