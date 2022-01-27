@@ -8,17 +8,17 @@ pronouns: (*she/her*)
 
 > ♡ I'm actively looking for new opportunities 
 
-[✨ portfolio ✨](https://sarahrosecooper.dev/)
+[✨ portfolio ✨](https://sarahrosecooper.dev/) - WORK IN PROGRESS SINCE TRANSITIONING FIELDS
 
-> I am a passionate UX Researcher with experience in front-end web development (CSS/Javascript/React.js). 
+> I am a passionate UXer with experience in front-end web development (CSS/Javascript/React.js). I am interested in all facets of UX and UI and want to continue to learn everything.. forever, but especially all aspects and methods of research.
 
-> I graduated from the Bloom Institute of Technology with a focus on Full Stack Web Development before realizing that UI/UX is where I really needed to be. I have an incessant hunger for constantly advancing my UI/UX knowledge while prioritizing accessibility. I enjoy UI but I believe my strengths lie in Research. 
+> I graduated from the Bloom Institute of Technology with a focus on Full Stack Web Development before realizing that UI/UX is where I really needed and wanted to be. I have an incessant hunger for constantly advancing my UI/UX knowledge while prioritizing accessibility. I enjoy UI but I believe my strengths lie in Research. 
 
-> I’m not ashamed to say my interest in technology was peaked in the early 2000’s when I picked up my first HTML/CSS for Dummies book so I could make my friends Myspace layouts (and my own) stand out -- a little sneak peak into Brand Identity before I ever knew what those words meant. 
+> I’m not ashamed to say my interest in technology was peaked in the early 2000’s when I picked up my first HTML/CSS for Dummies book so I could make my friends Myspace layouts (and my own) stand out -- a little sneak peak into brand identity before I ever knew what those words meant. 
 
-> When I’m not developing, my interests range from psychology, cats, film, music, all forms of art and literature/poetry to caffeine. 
+> When I’m not developing, my interests range from psychology, cats, film, music, queer advocacy, all forms of art and literature/poetry to caffeine. 
 
-> I have aspirations to pursue a lifelong degree of a Bachelors in Psychology. After being a barista off and on for 8 years I find that my empathy for people, diversity, and inclusivity for all human beings has and only will continue to magnify. Although these skill sets are not tech oriented, I have no doubt that they are directly transferable. 
+> I have aspirations to pursue a lifelong dream of a Bachelors in Psychology. After being a barista off and on for 8 years I find that my empathy for people, diversity, and inclusivity for all human beings has and only will continue to magnify. Although these skill sets are not tech oriented, I have no doubt that they are directly transferable. 
 
 > There is no greater motivating factor in my life than fostering connection and warmth between all different types of people (animals, too.) I believe there is no denying that the internet is a central focus in making this happen. I hope as I expand my technical knowledge I can play a part in bridging this gap as a queer, woman of color. It’s riveting to be a part of an industry where ones hunger for knowledge can be endlessly satiated with a thousand ways to expand your skill set at any given moment.
 
