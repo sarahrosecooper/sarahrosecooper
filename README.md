@@ -12,7 +12,11 @@ pronouns: (*she/her*)
 
 > I am a passionate UXer with experience in front-end web development (CSS/Javascript/React.js). I am interested in all facets of UX and UI and want to continue to learn everything.. forever, but especially all aspects and methods of research.
 
-> I graduated from the Bloom Institute of Technology with a focus on Full Stack Web Development before realizing that UI/UX is where I really needed and wanted to be. I have an incessant hunger for constantly advancing my UI/UX knowledge while prioritizing accessibility. I enjoy UI but I believe my strengths lie in research. 
+> I graduated from the Bloom Institute of Technology with a focus on Full Stack Web Development before realizing that UI/UX is where I really needed and wanted to be. 
+
+> My dream is to impact the future whether that be environmentally, or using human-centric design. 
+
+> I have an incessant hunger for constantly advancing my UI/UX knowledge while prioritizing accessibility. I enjoy UI but I believe my strengths lie in research. 
 
 > I’m not ashamed to say my interest in technology was peaked in the early 2000’s when I picked up my first HTML/CSS for Dummies book so I could make my friends Myspace layouts (and my own) stand out -- a little sneak peak into brand identity before I ever knew what those words meant. 
 
