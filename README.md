@@ -10,6 +10,8 @@ pronouns: (*she/her*)
 
 [✨ old portfolio ✨](https://sarahrosecooper.dev/) - WORK IN PROGRESS SINCE TRANSITIONING FIELDS
 
+> "There is no substitute for personally watching and listening to real people." - Larry Page, Founder, Google"
+
 > I am a passionate UXer with experience in front-end web development (CSS/Javascript/React.js). I am interested in all facets of UX and UI and want to continue to learn everything.. forever, but especially all aspects and methods of research.
 
 > I graduated from the Bloom Institute of Technology with a focus on Full Stack Web Development before realizing that UI/UX is where I really needed and wanted to be. 
