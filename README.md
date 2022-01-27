@@ -8,7 +8,7 @@ pronouns: (*she/her*)
 
 > ♡ I'm actively looking for new opportunities 
 
-[✨ portfolio ✨](https://sarahrosecooper.dev/) - WORK IN PROGRESS SINCE TRANSITIONING FIELDS
+[✨ old portfolio ✨](https://sarahrosecooper.dev/) - WORK IN PROGRESS SINCE TRANSITIONING FIELDS
 
 > I am a passionate UXer with experience in front-end web development (CSS/Javascript/React.js). I am interested in all facets of UX and UI and want to continue to learn everything.. forever, but especially all aspects and methods of research.
 
