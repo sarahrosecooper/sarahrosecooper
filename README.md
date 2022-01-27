@@ -12,11 +12,11 @@ pronouns: (*she/her*)
 
 > I am a passionate UXer with experience in front-end web development (CSS/Javascript/React.js). I am interested in all facets of UX and UI and want to continue to learn everything.. forever, but especially all aspects and methods of research.
 
-> I graduated from the Bloom Institute of Technology with a focus on Full Stack Web Development before realizing that UI/UX is where I really needed and wanted to be. I have an incessant hunger for constantly advancing my UI/UX knowledge while prioritizing accessibility. I enjoy UI but I believe my strengths lie in Research. 
+> I graduated from the Bloom Institute of Technology with a focus on Full Stack Web Development before realizing that UI/UX is where I really needed and wanted to be. I have an incessant hunger for constantly advancing my UI/UX knowledge while prioritizing accessibility. I enjoy UI but I believe my strengths lie in research. 
 
 > I’m not ashamed to say my interest in technology was peaked in the early 2000’s when I picked up my first HTML/CSS for Dummies book so I could make my friends Myspace layouts (and my own) stand out -- a little sneak peak into brand identity before I ever knew what those words meant. 
 
-> When I’m not developing, my interests range from psychology, cats, film, music, queer advocacy, all forms of art and literature/poetry to caffeine. 
+> When I’m not developing, my interests range from psychology, writing, cats, film, music, queer advocacy, animals and all forms of art and literature/poetry to caffeine. 
 
 > I have aspirations to pursue a lifelong dream of a Bachelors in Psychology. After being a barista off and on for 8 years I find that my empathy for people, diversity, and inclusivity for all human beings has and only will continue to magnify. Although these skill sets are not tech oriented, I have no doubt that they are directly transferable. 
 
