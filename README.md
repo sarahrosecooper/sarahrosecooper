@@ -30,15 +30,15 @@ pronouns: (*she/her*)
 
 ##### ✔️ currently working on
 
-> graduating from the [Google UX Certificate](https://grow.google/certificates/ux-design/#?modal_active=none) 
+> self-teaching UX, attending workshops via ADPlist, and Adobe, Chris Nodder's UX Syllab 
 
 ##### 📚 languages/libraries/frameworks/tools
 ---
-> • figma • html5 • css3 • javascript/es6 • react • redux • styled components • axios • git  • github  • trello  • slack  • macOS  • vscode 
+> • figma • adobe xd • html5 • css3 • javascript/es6 • react • redux • styled components • axios • git  • github  • trello  • slack  • macOS  • vscode 
 
 ##### 🤓 goals
 ---
-> • adobe xd • material ui • react native • swift • flutter • typescript
+> material ui • 
 
 
 ###### 🌹 STATS (weekly waka) 😌
